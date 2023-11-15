@@ -81,24 +81,24 @@
 							>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link title-white" href="#services">Servicios</a>
+							<a class="nav-link title-white" href="#services">Services</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link title-white" href="#about">Quiénes somos</a>
+							<a class="nav-link title-white" href="#about">About Us</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link title-white" href="#testimonials">Testimonios</a>
+							<a class="nav-link title-white" href="#testimonials">Testimonials</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link title-white" href="https://studistay-app.vercel.app">Aplicación</a>
+							<a class="nav-link title-white" href="https://studistay-app.vercel.app">Web Application</a>
 						</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							  Idioma
+							  Language
 							</a>
 							<div class="dropdown-menu" aria-labelledby="languageDropdown">
-							  <a class="dropdown-item" href="indexEN.html">Inglés</a>
-							  <a class="dropdown-item" href="index.html">Español</a>
+							  <a class="dropdown-item" href="indexEN.html">English</a>
+							  <a class="dropdown-item" href="index.html">Spanish</a>
 							</div>
 						</li>
 					</ul>
@@ -110,16 +110,16 @@
 		<div class="hero" id="home">
 			<div class="content justify-content-center text-center">
 				<h1 class="text-white">
-					Tu <span class="fw-bold title-blue"> Refugio</span> Universitario
+					Your <span class="fw-bold title-blue"> University</span> Shelter
 				</h1>
 				<p class="paragraph text-white lead">
-					Encuentra espacios ideales para tu descanso después de largas jornadas
-					académicas. Deja atrás el tráfico, la inseguridad y el cansancio. Concéntrate en
-					lo que realmente importa:
-					<span class="fw-bold title-blue">tus estudios</span>
+					Find ideal spaces for your rest after long days
+					academics. Leave traffic, insecurity and fatigue behind. Focus in
+					what really matters:
+					<span class="fw-bold title-blue">your studies</span>
 				</p>
 				<button class="btn btn-primary common-text">
-					Saber más <i class="ti ti-chevron-right"></i>
+					Find out more <i class="ti ti-chevron-right"></i>
 				</button>
 			</div>
 		</div>
@@ -127,7 +127,7 @@
         <!-- SERVICES -->
 		<section class="p-5" id="services">
 			<div class="container py-5">
-				<h1 class="text-center mb-5 title-blue fw-bold">Nuestros servicios</h1>
+				<h1 class="text-center mb-5 title-blue fw-bold">Our services</h1>
 				<div class="row text-center g-4">
 					<div class="col-md">
 						<div class="card p-5">
@@ -135,11 +135,11 @@
 								<div class="h1 mb-3">
 									<i class="ti ti-home-shield title-blue"></i>
 								</div>
-								<h2 class="title-blue card-title mb-3">Habitaciones seguras</h2>
+								<h2 class="title-blue card-title mb-3">Secure rooms</h2>
 								<p class="card-text paragraph lead">
-									Nuestra prioridad es tu seguridad. Todas las habitaciones están
-									equipadas con cerraduras electrónicas de última generación y cámaras de
-									vigilancia para que puedas descansar con total tranquilidad
+									Our priority is your safety. All rooms are equipped with state-of-the-art 
+									electronic locks and surveillance cameras so you can rest in 
+									complete peace of mind
 								</p>
 							</div>
 						</div>
@@ -151,11 +151,11 @@
 								<div class="h1 mb-3">
 									<i class="ti ti-map-star title-blue"></i>
 								</div>
-								<h2 class="title-blue card-title mb-3">Ubicación estratégica</h2>
+								<h2 class="title-blue card-title mb-3">Strategic location</h2>
 								<p class="card-text paragraph lead">
-									Las ubicaciones de nuestros espacios son insuperables, a solo minutos de
-									tu universidad o instituto. Dile adiós al estrés del tráfico y llega a
-									tus clases o exámenes de manera rápida.
+									The locations of our spaces are unbeatable, just minutes from your 
+									university or institute. Say goodbye to the stress of traffic and 
+									get to your classes or exams quickly.
 								</p>
 							</div>
 						</div>
@@ -167,11 +167,11 @@
 								<div class="h1 mb-3">
 									<i class="ti ti-router title-blue"></i>
 								</div>
-								<h2 class="title-blue card-title mb-3">Esté siempre conectado</h2>
+								<h2 class="title-blue card-title mb-3">Always be connected</h2>
 								<p class="card-text paragraph lead">
-									Todas las habitaciones cuentan con conectividad a internet (Wi-Fi y
-									Ethernet), para que puedas realizar tus trabajos, tareas y exámenes en
-									línea sin problemas. ¡No te quedarás desconectado!
+									All rooms have internet connectivity (Wi-Fi and Ethernet), so you 
+									can do your work, homework and exams online without problems. 
+									You won't be left disconnected!
 								</p>
 							</div>
 						</div>
@@ -183,12 +183,12 @@
 								<div class="h1 mb-3">
 									<i class="ti ti-calendar-heart title-blue"></i>
 								</div>
-								<h2 class="title-blue card-title mb-3">Flexibilidad de reserva</h2>
+								<h2 class="title-blue card-title mb-3">Reservation flexibility</h2>
 								<p class="card-text paragraph lead">
-									Entendemos que la vida universitaria puede ser impredecible. Por eso,
-									ofrecemos flexibilidad en tus reservas, ya sea que necesites una
-									habitación por una noche o una semana entera durante tus exámenes,
-									estamos aquí para adaptarnos a tus necesidades
+									We understand that university life can be unpredictable. 
+									Therefore, we offer flexibility in your reservations, whether 
+									you need a room for one night or a whole week during your exams, 
+									we are here to adapt to your needs.
 								</p>
 							</div>
 						</div>
@@ -211,18 +211,18 @@
 						</a>
 					</div>
 					<div class="col-md p-5">
-						<h1 class="title-blue fw-bold">¿Quiénes somos?</h1>
+						<h1 class="title-blue fw-bold">About Us</h1>
 						<p class="paragraph lead">
-							Nuestra historia comenzó con el deseo de proporcionar a los estudiantes
-							universitarios un refugio seguro y cómodo para sus noches agotadoras. Somos
-							un equipo apasionado por tu éxito académico y bienestar.
+							Our story began with the desire to provide college students with a safe 
+							and comfortable haven for their exhausting nights. We are a team passionate 
+							about your academic success and well-being.
 						</p>
 						<p class="paragraph lead">
-							Nuestro compromiso es ofrecerte seguridad, comodidad y librarte de
-							preocupaciones secundarias. Tu tranquilidad es nuestra misión.
+							Our commitment is to offer you security, comfort and free you from secondary 
+							worries. Your peace of mind is our mission.
 						</p>
 						<a href="#" class="btn btn-primary mt-3">
-							Leer más <i class="ti ti-chevron-right"></i>
+							Read more <i class="ti ti-chevron-right"></i>
 						</a>
 					</div>
 				</div>
@@ -237,12 +237,13 @@
 						 width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="upc-pre-202302-si730-WS52-StudiStay-about-the-team-sprint-3.mp4"></iframe>
 					</div>
 					<div class="col-md p-5">
-						<h1 class="title-blue fw-bold">Video About The Team</h1>
+						<h1 class="title-blue fw-bold">About The Team Video</h1>
 						<p class="paragraph lead">
-							Este video proporciona una visión en profundidad de nuestro equipo, destacando a los miembros clave, sus roles, responsabilidades y logros. 
-							Descubre las habilidades y experiencias que hacen que nuestro equipo sea único, y conoce la pasión y dedicación que ponemos en cada proyecto. 
-							A través de entrevistas, proyectos anteriores y testimonios, obtendrás una comprensión completa de quiénes somos y cómo trabajamos juntos para 
-							lograr el éxito.
+							This video provides an in-depth look at our team, highlighting key members, their roles, 
+							responsibilities and achievements. Discover the skills and experiences that make our team 
+							unique, and learn about the passion and dedication we put into each project. Through interviews, 
+							past projects, and testimonials, you'll gain a complete understanding of who we are and how we 
+							work together to achieve success.
 						</p>
 					</div>
 				</div>
@@ -257,10 +258,10 @@
 						width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="upc-pre-202302-si730-WS52-StudiStay-about-the-product-sprint-3.mp4"></iframe>
 					</div>
 					<div class="col-md p-5">
-						<h1 class="title-blue fw-bold">Video About The Product</h1>
+						<h1 class="title-blue fw-bold">About The Product Video</h1>
 						<p class="paragraph lead">
-							Este video sobre el producto ofrece una visión detallada de las características, usos y beneficios de nuestro innovador producto,
-							 con demostraciones prácticas y testimonios de usuarios satisfechos.
+							This product video provides a detailed look at the features, uses and benefits of our innovative product, 
+							with hands-on demonstrations and testimonials from satisfied users.
 						</p>
 					</div>
 				</div>
@@ -271,10 +272,10 @@
 		<!-- TESTIMONIALS -->
 		<section class="p-5 backgroud-secondary" id="testimonials">
 			<div class="container py-5">
-				<h1 class="text-center title-white fw-bold">Testimonios</h1>
+				<h1 class="text-center title-white fw-bold">Testimonials</h1>
 
 				<p class="lead text-center text-white mb-5 paragraph">
-					Experiencias de estudiantes que han confiado en nosotros
+					Experiences of students who have trusted us
 				</p>
 
 				<div class="row g-4">
@@ -295,10 +296,9 @@
 									<i class="fa fa-star"></i>
 								</div>
 								<p class="card-text paragraph">
-									"Desde que empecé a utilizar este servicio, mis noches de estudio se han
-									vuelto mucho más llevaderas. La comodidad y seguridad que ofrecen son
-									invaluables. ¡Realmente me han ayudado a concentrarme en mis exámenes
-									sin preocupaciones!"
+									"Since I started using this service, my study nights have become much more bearable. 
+									The comfort and security they offer are invaluable. They have really helped me focus 
+									on my exams without worry!"
 								</p>
 							</div>
 						</div>
@@ -321,10 +321,9 @@
 									<i class="fa fa-star rating-color"></i>
 								</div>
 								<p class="card-text paragraph">
-									"No puedo agradecer lo suficiente a este equipo por su dedicación a
-									nuestro bienestar. Durante mi semana de exámenes finales, este lugar fue
-									mi salvación. La seguridad en todo momento fue lo más imporante para mí
-									y no tuve que preocuparme por ello."
+									"I cannot thank this team enough for their dedication to our well-being. 
+									During my finals week, this place was my saving grace. Safety at all times 
+									was the most important thing for me and I didn't have to worry about it."
 								</p>
 							</div>
 						</div>
@@ -347,10 +346,9 @@
 									<i class="fa fa-star rating-color"></i>
 								</div>
 								<p class="card-text paragraph">
-									"¡Increíble experiencia! Pasé una semana aquí mientras tenía un proyecto
-									importante y no podría estar más satisfecho. La conexión a internet me
-									ayudó bastante y la ubicación es perfecta. Sin duda, volveré en mi
-									próxima temporada de exámenes."
+									"Incredible experience! I spent a week here while I had an important project 
+									and couldn't be more pleased. The internet connection helped me a lot and the 
+									location is perfect. I will definitely return for my next exam season."
 								</p>
 							</div>
 						</div>
@@ -374,11 +372,10 @@
 						</a>
 					</div>
 					<div class="col-md p-5">
-						<h1 class="title-blue fw-bold">Ingresa a Nuestra Aplicación</h1>
+						<h1 class="title-blue fw-bold">Enter Our Application</h1>
 						<p class="paragraph lead">
-							¡Accede a nuestra aplicación web para explorar y reservar habitaciones de
-							manera fácil y rápida. Simplificamos el proceso para que puedas concentrarte
-							en tus estudios!
+							Access our web application to explore and reserve rooms quickly and easily. 
+							We simplify the process so you can focus on your studies!
 						</p>
 						<a href="#" class="btn btn-primary mt-3">
 							Ingresar <i class="ti ti-external-link"></i>
@@ -397,11 +394,11 @@
 				<div class="row g-4">
 					<div class="col-lg-3 col-md-6">
 						<h1 class="font-weight-bold mb-4 title-white fw-bold">StudiStay</h1>
-						<p class="text-white paragraph">"Tu refugio universitario"</p>
+						<p class="text-white paragraph">"Your university refuge"</p>
 					</div>
 
 					<div class="col-lg-2 col-md-2 mx-auto">
-						<h5 class="fw-bold mb-4 title-white">Nuestras redes sociales</h5>
+						<h5 class="fw-bold mb-4 title-white">Our social networks</h5>
 						<ul class="list-unstyled">
 							<li class="mb-1">
 								<a href="#"
@@ -425,7 +422,7 @@
 					</div>
 
 					<div class="col-lg-3 col-xs-12 location">
-						<h5 class="fw-bold mb-4 title-white">Contacto</h5>
+						<h5 class="fw-bold mb-4 title-white">Contact</h5>
 						<p class="d-flex align-items-center">
 							<i class="ti ti-map-pin mx-2 lead"></i>
 							<span class="text-white paragraph">Av. La Marina 123, Lima</span>
